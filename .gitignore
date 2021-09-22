@@ -127,3 +127,10 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+Personal
+*.db
+data/
+21sep21/
+*.rar
+*.zip
